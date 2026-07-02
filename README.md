@@ -1,4 +1,4 @@
-[README (2).md](https://github.com/user-attachments/files/29612652/README.2.md)
+[README (4).md](https://github.com/user-attachments/files/29612755/README.4.md)
 # Olá, eu sou o Maicon Pereira 👋
 
 Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de Sistemas** na FATEC. Focado em construir aplicações sólidas com boas práticas e código limpo.
@@ -20,8 +20,8 @@ Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de S
 |---------|-----------|-------------|
 | [**EcommerceDDD**](https://github.com/MaiconPereira7/EcommerceDDD) | Sistema de e-commerce aplicando Domain-Driven Design | C# · .NET |
 | [**Desafio-WebScrapping**](https://github.com/MaiconPereira7/Desafio-WebScrapping) | Web scraper para coleta e processamento de dados | Python |
-| [**Kozzy Mobile**](https://github.com/MaiconPereira7/LINK-DO-REPO) | Aplicativo mobile do marketplace Kozzy | React Native |
-| [**Kozzy Web**](https://github.com/MaiconPereira7/LINK-DO-REPO) | Plataforma web do marketplace Kozzy | Angular |
+| [**Kozzy Mobile**](https://github.com/MaiconPereira7/LINK-DO-REPO) | App mobile para a distribuidora de alimentos Kozzy | React Native |
+| [**Kozzy Web**](https://github.com/MaiconPereira7/LINK-DO-REPO) | Plataforma web para a distribuidora de alimentos Kozzy | Angular |
 | [**Estruturas de Dados**](https://github.com/MaiconPereira7/FATEC-AMS-ED2025-1-1681432512025-Maicon) | Implementações de estruturas de dados clássicas | C |
 
 > ⚠️ *Atualize os links e descrições acima conforme seus projetos reais.*
@@ -38,8 +38,8 @@ Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de S
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-pereira-veloso/)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:maicon.veloso@outlook.com.br)
 
 ---
 
