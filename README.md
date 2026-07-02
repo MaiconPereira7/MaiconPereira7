@@ -1,7 +1,7 @@
-[README (4).md](https://github.com/user-attachments/files/29612755/README.4.md)
+[README .md](https://github.com/user-attachments/files/29612794/README.md)
 # Olá, eu sou o Maicon Pereira 👋
 
-Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de Sistemas** na FATEC. Focado em construir aplicações sólidas com boas práticas e código limpo.
+Desenvolvedor Full Stack na Kozzy Distribuidora, onde atuo no desenvolvimento das plataformas web (Angular) e mobile (React Native). Cursando Análise e Desenvolvimento de Sistemas na FATEC, sempre buscando evoluir e aplicar boas práticas no código
 
 ## 🛠️ Tecnologias & Ferramentas
 
@@ -43,5 +43,5 @@ Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de S
 ---
 
 <p align="center">
-  <i>Aberto a oportunidades de estágio e posições júnior em desenvolvimento full-stack.</i>
+  <i>Aberto a oportunidades de estágio e posições júnior em desenvolvimento back-end.</i>
 </p>
