@@ -24,7 +24,6 @@ Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de S
 | [**Kozzy Web**](https://github.com/MaiconPereira7/LINK-DO-REPO) | Plataforma web para a distribuidora de alimentos Kozzy | Angular |
 | [**Estruturas de Dados**](https://github.com/MaiconPereira7/FATEC-AMS-ED2025-1-1681432512025-Maicon) | Implementações de estruturas de dados clássicas | C |
 
-> ⚠️ *Atualize os links e descrições acima conforme seus projetos reais.*
 
 ## 📊 GitHub Stats
 
