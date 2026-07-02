@@ -1,4 +1,3 @@
-[README (1).md](https://github.com/user-attachments/files/29612597/README.1.md)
 # Olá, eu sou o Maicon Pereira 👋
 
 Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de Sistemas** na FATEC. Focado em construir aplicações sólidas com boas práticas e código limpo.
@@ -20,6 +19,8 @@ Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de S
 |---------|-----------|-------------|
 | [**EcommerceDDD**](https://github.com/MaiconPereira7/EcommerceDDD) | Sistema de e-commerce aplicando Domain-Driven Design | C# · .NET |
 | [**Desafio-WebScrapping**](https://github.com/MaiconPereira7/Desafio-WebScrapping) | Web scraper para coleta e processamento de dados | Python |
+| [**Kozzy Mobile**](https://github.com/MaiconPereira7/LINK-DO-REPO) | Aplicativo mobile do marketplace Kozzy | React Native |
+| [**Kozzy Web**](https://github.com/MaiconPereira7/LINK-DO-REPO) | Plataforma web do marketplace Kozzy | Angular |
 | [**Estruturas de Dados**](https://github.com/MaiconPereira7/FATEC-AMS-ED2025-1-1681432512025-Maicon) | Implementações de estruturas de dados clássicas | C |
 
 > ⚠️ *Atualize os links e descrições acima conforme seus projetos reais.*
