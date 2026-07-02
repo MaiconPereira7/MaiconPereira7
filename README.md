@@ -1,3 +1,4 @@
+[README (2).md](https://github.com/user-attachments/files/29612652/README.2.md)
 # Olá, eu sou o Maicon Pereira 👋
 
 Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de Sistemas** na FATEC. Focado em construir aplicações sólidas com boas práticas e código limpo.
