@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29612564/README.md)
+[README (1).md](https://github.com/user-attachments/files/29612597/README.1.md)
 # Olá, eu sou o Maicon Pereira 👋
 
 Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de Sistemas** na FATEC. Focado em construir aplicações sólidas com boas práticas e código limpo.
@@ -10,6 +10,8 @@ Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de S
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Projetos em Destaque
