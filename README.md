@@ -44,5 +44,5 @@ Desenvolvedor back-end em formação, cursando **Análise e Desenvolvimento de S
 ---
 
 <p align="center">
-  <i>Aberto a oportunidades de estágio e posições júnior em desenvolvimento back-end.</i>
+  <i>Aberto a oportunidades de estágio e posições júnior em desenvolvimento full-stack.</i>
 </p>
