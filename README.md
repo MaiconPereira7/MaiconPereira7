@@ -34,5 +34,5 @@ Desenvolvedor Full Stack na Kozzy Distribuidora, onde atuo no desenvolvimento da
 ---
 
 <p align="center">
-  <i>Aberto a oportunidades de estágio e posições júnior em desenvolvimento back-end.</i>
+  <i>Aberto a oportunidades de estágio e posições júnior em desenvolvimento Full-Stack.</i>
 </p>
