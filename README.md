@@ -25,15 +25,6 @@ Desenvolvedor Full Stack na Kozzy Distribuidora, onde atuo no desenvolvimento da
 | [**Estruturas de Dados**](https://github.com/MaiconPereira7/FATEC-AMS-ED2025-1-1681432512025-Maicon) | Implementações de estruturas de dados clássicas | C |
 
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaiconPereira7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconPereira7&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 📫 Contato
 
