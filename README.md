@@ -1,7 +1,7 @@
 [README .md](https://github.com/user-attachments/files/29612794/README.md)
 # Olá, eu sou o Maicon Pereira 👋
 
-Desenvolvedor Full Stack na Kozzy Distribuidora, onde atuo no desenvolvimento das plataformas web (Angular) e mobile (React Native). Cursando Análise e Desenvolvimento de Sistemas na FATEC, sempre buscando evoluir e aplicar boas práticas no código
+Desenvolvedor Full Stack |  web (Angular) e mobile (React Native). Cursando Análise e Desenvolvimento de Sistemas na FATEC, sempre buscando evoluir e aplicar boas práticas no código
 
 ## 🛠️ Tecnologias & Ferramentas
 
