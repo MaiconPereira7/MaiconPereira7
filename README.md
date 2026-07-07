@@ -1,10 +1,11 @@
-[README .md](https://github.com/user-attachments/files/29612794/README.md)
+[README.md](https://github.com/user-attachments/files/29769909/README-profile.md)
 # Olá, eu sou o Maicon Pereira 👋
 
-Desenvolvedor Full Stack |  web (Angular) e mobile (React Native). Cursando Análise e Desenvolvimento de Sistemas na FATEC, sempre buscando evoluir e aplicar boas práticas no código
+Desenvolvedor Full Stack em formação, cursando **Análise e Desenvolvimento de Sistemas** na FATEC. Focado em construir aplicações sólidas com boas práticas e código limpo.
 
 ## 🛠️ Tecnologias & Ferramentas
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
@@ -12,19 +13,28 @@ Desenvolvedor Full Stack |  web (Angular) e mobile (React Native). Cursando Aná
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
+| [**Velt**](https://github.com/MaiconPereira7/Velt) | Plataforma de gestão financeira com portfólio de cripto e IA integrada · [Live](https://velt-tan.vercel.app) | Angular 19 · Node.js · TypeScript · Firebase · Groq |
 | [**EcommerceDDD**](https://github.com/MaiconPereira7/EcommerceDDD) | Sistema de e-commerce aplicando Domain-Driven Design | C# · .NET |
 | [**Desafio-WebScrapping**](https://github.com/MaiconPereira7/Desafio-WebScrapping) | Web scraper para coleta e processamento de dados | Python |
-| [**Kozzy Mobile**](https://github.com/MaiconPereira7/LINK-DO-REPO) | App mobile para a distribuidora de alimentos Kozzy | React Native |
-| [**Kozzy Web**](https://github.com/MaiconPereira7/LINK-DO-REPO) | Plataforma web para a distribuidora de alimentos Kozzy | Angular |
+| [**Kozzy Mobile**](https://github.com/MaiconPereira7/kozzy_mobile) | App mobile para a distribuidora de alimentos Kozzy | React Native · Expo |
 | [**Estruturas de Dados**](https://github.com/MaiconPereira7/FATEC-AMS-ED2025-1-1681432512025-Maicon) | Implementações de estruturas de dados clássicas | C |
 
+## 📊 GitHub Stats
 
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaiconPereira7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconPereira7&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
 
 ## 📫 Contato
 
@@ -34,5 +44,5 @@ Desenvolvedor Full Stack |  web (Angular) e mobile (React Native). Cursando Aná
 ---
 
 <p align="center">
-  <i>Aberto a oportunidades de estágio e posições júnior em desenvolvimento Full-Stack.</i>
+  <i>Aberto a oportunidades de estágio e posições júnior em desenvolvimento Full Stack.</i>
 </p>
