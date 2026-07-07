@@ -26,15 +26,7 @@ Desenvolvedor Full Stack em formação, cursando **Análise e Desenvolvimento de
 | [**Kozzy Mobile**](https://github.com/MaiconPereira7/kozzy_mobile) | App mobile para a distribuidora de alimentos Kozzy | React Native · Expo |
 | [**Estruturas de Dados**](https://github.com/MaiconPereira7/FATEC-AMS-ED2025-1-1681432512025-Maicon) | Implementações de estruturas de dados clássicas | C |
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaiconPereira7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconPereira7&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ## 📫 Contato
 
